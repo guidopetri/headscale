@@ -2,6 +2,15 @@
 
 ![ci](https://github.com/juanfont/headscale/actions/workflows/test.yml/badge.svg)
 
+# Differences from juanfont/headscale
+
+This fork of headscale was made as of v0.26.1 and represents headscale as it was
+before any addition of LLM code. I am not 100% sure whether any of the existing commits
+have LLM code, but I've done my best to verify it. Besides this change to the
+README file, everything else is the same as upstream.
+
+---
+
 An open source, self-hosted implementation of the Tailscale control server.
 
 Join our [Discord server](https://discord.gg/c84AZQhmpx) for a chat.
